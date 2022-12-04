@@ -1,2 +1,2 @@
-# .github
-RIICO Project Description
+# RIICO - Remote Intelligent Inventory Control
+
